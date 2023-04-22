@@ -1,0 +1,2 @@
+# emacs-config
+emacsのconfigurationファイルを管理するためのリポジトリ
